@@ -17,3 +17,7 @@ Work in this repository is licensed under the GPLv3 license, see the [LICENSE](L
 **Rob Atkinson**  
 *Metalinkage* & *Open Geospatial Consortium*  
 <rob@metalinkage.com.au>  
+
+**Ashley Sommer**  
+*CSIRO Land & Water, Envrionmental Informatics*  
+<ashley.sommer@csiro.au>  
